@@ -1,4 +1,3 @@
-
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 
 
@@ -18,6 +17,7 @@ b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 
 APPARATUS REQUIRED:
+
 
 | S.No. | Components | Range / Value | Quantity |
 |---:|---|---|---:|
@@ -82,11 +82,13 @@ b.  KCL:
   CIRCUIT DIAGRAM:
 
 a.   KVL:
+
  <img width="1284" height="746" alt="image" src="https://github.com/user-attachments/assets/d38f899e-8f3d-47f3-9210-d93b9d4f31e3" />
 
 
 
 b.  KCL:
+
  <img width="1118" height="740" alt="image" src="https://github.com/user-attachments/assets/ab4c0fa2-b595-43e9-85f0-0402c3041a8f" />
 
  
@@ -95,14 +97,12 @@ b.  KCL:
 CALCULATIONS:
 
 a.   KVL:
- 
 <img width="1200" height="1600" alt="WhatsApp Image 2026-10-18 at 8 19 36 PM" src="https://github.com/user-attachments/assets/1e48fead-a0eb-4991-8881-2bceb8c6d271" />
 
 
 
 
 b.  KCL:
-
 <img width="1001" height="1600" alt="image" src="https://github.com/user-attachments/assets/044dca27-8114-40ac-9298-91b15a16adef" />
 
 
