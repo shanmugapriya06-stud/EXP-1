@@ -104,12 +104,8 @@ a.   KVL:
 <img width="1200" height="1600" alt="WhatsApp Image 2026-10-18 at 8 19 36 PM" src="https://github.com/user-attachments/assets/1e48fead-a0eb-4991-8881-2bceb8c6d271" />
 
 
-
-
 b.  KCL:
 <img width="1001" height="1600" alt="image" src="https://github.com/user-attachments/assets/044dca27-8114-40ac-9298-91b15a16adef" />
-
-
 
 
 OUTPUT:
