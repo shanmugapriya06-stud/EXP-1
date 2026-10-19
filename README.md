@@ -1,4 +1,4 @@
-         EXPT NO: 1
+         EXPERIMENT NO 1
 
 
 
