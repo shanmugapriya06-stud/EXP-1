@@ -99,9 +99,8 @@ b.  KCL:
 
 
 CALCULATIONS:
-
-a.   KVL:
-<img width="1200" height="1600" alt="WhatsApp Image 2026-10-18 at 8 19 36 PM" src="https://github.com/user-attachments/assets/1e48fead-a0eb-4991-8881-2bceb8c6d271" />
+a.KVL:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b676fac5-c812-43d5-8014-65431c2441a2" />
 
 
 b.  KCL:
