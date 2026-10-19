@@ -1,11 +1,18 @@
 
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 
+
+
+
+
 AIM:
 
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
+
+
+
 
 
 
@@ -21,12 +28,20 @@ APPARATUS REQUIRED:
 | 5 | Connecting Wires | As required | As required |
 | 6 | Proteus 8 Professional | Simulation Software | 1 |
 
+
+
+
+
+
 THEORY:
+
 
 KVL:
 
 
 Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
+
+
  
 KCL:
 
@@ -34,7 +49,12 @@ KCL:
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
+
+
+
+
 PROCEDURE:
+
 
 a.  KVL: 
 
@@ -46,6 +66,7 @@ a.  KVL:
 6. Record the voltage across each resistor using the respective voltmeters.
 7. Verify KVL by comparing the source voltage with the sum of the voltage drops across the resistors.
 
+
 b.  KCL:
 
 1. Construct the circuit as shown in the KCL circuit diagram using Proteus software.
@@ -56,6 +77,7 @@ b.  KCL:
 6. Record the currents in the individual branches.
 7. Verify KCL by comparing the incoming current with the sum of the outgoing branch currents.
 
+   
 
   CIRCUIT DIAGRAM:
 
@@ -66,6 +88,8 @@ a.   KVL:
 
 b.  KCL:
  <img width="1118" height="740" alt="image" src="https://github.com/user-attachments/assets/ab4c0fa2-b595-43e9-85f0-0402c3041a8f" />
+
+ 
 
 
 CALCULATIONS:
@@ -81,6 +105,9 @@ b.  KCL:
 
 <img width="1001" height="1600" alt="image" src="https://github.com/user-attachments/assets/044dca27-8114-40ac-9298-91b15a16adef" />
 
+
+
+
 OUTPUT:
 
 a.KVL stimulation output:
@@ -92,6 +119,9 @@ a.KVL stimulation output:
 
 b.KCL stimulation output:
 <img width="1336" height="900" alt="image" src="https://github.com/user-attachments/assets/f1fd0194-2d0a-4ab1-9db1-742dbf354b79" />
+
+
+
 
 
 
@@ -107,6 +137,8 @@ b. KIRCHHOFF'S CIRCUIT LAW :
 | S.No. | Input Voltage (V) | I₁ (A) | I₂ (A) | I₃ (A) | I₄ (A) | I₂ + I₃ + I₄ (A) |
 |---:|---:|---:|---:|---:|---:|---:|
 | 1 | 100 | 2.941 | 0.588 | 1.176 | 1.176 | 2.940 |
+
+
 
 
 RESULT:
