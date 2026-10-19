@@ -99,6 +99,7 @@ b.  KCL:
 
 
 CALCULATIONS:
+
 a.KVL:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b676fac5-c812-43d5-8014-65431c2441a2" />
 
