@@ -8,6 +8,8 @@ a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit.
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 
+
+
 APPARATUS REQUIRED:
 
 | S.No. | Components | Range / Value | Quantity |
@@ -22,32 +24,39 @@ APPARATUS REQUIRED:
 THEORY:
 
 KVL:
+
+
 Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
  
 KCL:
+
+
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
 PROCEDURE:
 
-a.   KVL:
-1.   Connect as per the circuit diagram.
-2.   Check if the RPS voltage is set to zero voltage.
-3.   Check all the meters for null position.
-4.   Switch on the RPS.
-5.   Set the input voltage to a value between 0V to 30V.
-6.   Record the voltage values shown in the voltmeter connected across each resistor.
-7.   Take readings for different values of input voltage and tabulate them.
+a.  KVL: 
 
+1. Construct the circuit as shown in the KVL circuit diagram using Proteus software.
+2. Set the DC voltage source to the required input voltage.
+3. Check the ammeter and voltmeter connections.
+4. Run the simulation.
+5. Record the current shown by the ammeter.
+6. Record the voltage across each resistor using the respective voltmeters.
+7. Verify KVL by comparing the source voltage with the sum of the voltage drops across the resistors.
 
 b.  KCL:
-1.   Connect as per the circuit diagram.
-2.   Check if the RPS voltage is set to zero voltage.
-3.   Check all the meters for null position.
-4.   Switch on the RPS.
-5.   Set the input voltage to a value between 0V to 30V.
-6.   Record the voltage values shown in the ammeter connected to each resistor.
-7.   Take readings for different values of input voltage and tabulate them. 
+
+1. Construct the circuit as shown in the KCL circuit diagram using Proteus software.
+2. Set the DC voltage source to the required input voltage.
+3. Check that the ammeters are connected in their respective branches.
+4. Run the simulation.
+5. Record the current entering the junction.
+6. Record the currents in the individual branches.
+7. Verify KCL by comparing the incoming current with the sum of the outgoing branch currents.
+
+
   CIRCUIT DIAGRAM:
 
 a.   KVL:
@@ -59,11 +68,12 @@ b.  KCL:
  <img width="1118" height="740" alt="image" src="https://github.com/user-attachments/assets/ab4c0fa2-b595-43e9-85f0-0402c3041a8f" />
 
 
-OUTPUT:
+CALCULATIONS:
 
 a.   KVL:
  
-<img width="1001" height="1600" alt="image" src="https://github.com/user-attachments/assets/cd484eb1-8d9d-4a5f-8f54-78498a729bd0" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-10-18 at 8 19 36 PM" src="https://github.com/user-attachments/assets/1e48fead-a0eb-4991-8881-2bceb8c6d271" />
+
 
 
 
@@ -71,16 +81,16 @@ b.  KCL:
 
 <img width="1001" height="1600" alt="image" src="https://github.com/user-attachments/assets/044dca27-8114-40ac-9298-91b15a16adef" />
 
-Output:
+OUTPUT:
 
-a.kvl stimulation output:
+a.KVL stimulation output:
 <img width="1485" height="830" alt="image" src="https://github.com/user-attachments/assets/1124e7b3-994d-414a-9c2b-7f98b5f36302" />
 
 
 
 
 
-b.kcl stimulation output:
+b.KCL stimulation output:
 <img width="1336" height="900" alt="image" src="https://github.com/user-attachments/assets/f1fd0194-2d0a-4ab1-9db1-742dbf354b79" />
 
 
