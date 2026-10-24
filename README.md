@@ -1,14 +1,14 @@
-         EXPERIMENT NO 1
+**EXPERIMENT NO. 1**
 
 
 
-VERIFICATION OF KIRCHHOFF’S LAW
+**VERIFICATION OF KIRCHHOFF’S LAW**
 
 
 
 
 
-AIM:
+## **AIM:**
 
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 
@@ -20,7 +20,7 @@ b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 
 
-APPARATUS REQUIRED:
+## **APPARATUS REQUIRED:**
 
 
 | S.No. | Components | Range / Value | Quantity |
@@ -37,7 +37,7 @@ APPARATUS REQUIRED:
 
 
 
-THEORY:
+## **THEORY:**
 
 
 KVL:
@@ -57,7 +57,7 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 
 
-PROCEDURE:
+## **PROCEDURE:**
 
 
 a.  KVL: 
@@ -83,7 +83,7 @@ b.  KCL:
 
    
 
-  CIRCUIT DIAGRAM:
+  ## **CIRCUIT DIAGRAM:**
 
 a.   KVL:
 
@@ -98,7 +98,8 @@ b.  KCL:
  
 
 
-CALCULATIONS:
+## **CALCULATIONS:**
+
 
 a.KVL:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b676fac5-c812-43d5-8014-65431c2441a2" />
@@ -108,7 +109,7 @@ b.  KCL:
 <img width="1001" height="1600" alt="image" src="https://github.com/user-attachments/assets/044dca27-8114-40ac-9298-91b15a16adef" />
 
 
-OUTPUT:
+**OUTPUT:**
 
 a.KVL stimulation output:
 <img width="1485" height="830" alt="image" src="https://github.com/user-attachments/assets/1124e7b3-994d-414a-9c2b-7f98b5f36302" />
@@ -124,13 +125,14 @@ b.KCL stimulation output:
 
 
 
+## **TABULATION:**
 
-TABULATION:
 
 a. KIRCHHOFF'S VOLTAGE LAW :
  | S.No. | Input Voltage (V) | Current (A) | V₁ (V) | V₂ (V) | V₃ (V) | V₁ + V₂ + V₃ (V) |
 |---:|---:|---:|---:|---:|---:|---:|
 | 1 | 100 | 1.11 | 33.3 | 44.4 | 22.2 | 99.9 ≈ 100 |
+
 
 
 b. KIRCHHOFF'S CIRCUIT LAW :
@@ -141,6 +143,6 @@ b. KIRCHHOFF'S CIRCUIT LAW :
 
 
 
-RESULT:
+## **RESULT**
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
